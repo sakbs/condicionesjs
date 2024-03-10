@@ -1,0 +1,31 @@
+body{
+    background-color: rgb(170, 236, 108);
+}
+#resultado {
+    font-weight: bold;
+}
+h1{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+main{
+    display: flex;
+    justify-content: space-around;
+}
+img{
+    width: 350px;
+    height: 190px;
+}
+.card{
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+}
+.boton{
+    display: flex;
+    justify-content: center;
+    flex-direction: center;
+    padding: 30px;
+}
