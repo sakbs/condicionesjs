@@ -1,3 +1,3 @@
 Desafio de condiciones 
-sebastian varas desfaio latam 2024
+sebastian varas desafio latam 2024
 index con link a cada ejercicio.
